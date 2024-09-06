@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+.input-section, .sort-section {
+    margin-bottom: 20px;
+}
+
+input {
+    margin-right: 10px;
+    padding: 5px;
+}
+
+button {
+    padding: 5px 10px;
+    margin-right: 10px;
+}
+
+.bar-graph {
+    display: flex;
+    flex-direction: column;
+}
+
+.bar {
+    display: flex;
+    align-items: center;
+    margin: 10px 0;
+}
+
+.bar div {
+    margin-right: 10px;
+}
+
+.bar .name {
+    width: 150px;
+}
+
+.bar .value {
+    background-color: #4CAF50;
+    height: 20px;
+    color: white;
+    text-align: right;
+    padding-right: 5px;
+}
