@@ -19,7 +19,7 @@ This web application allows users to input product data (name, price, and rating
 
 1. Clone the repository or download the ZIP file.
     ```bash
-    git clone https://github.com/yourusername/product-bar-graph.git
+    git clone https://github.com/tanya/product-bar-graph.git
     ```
 
 2. Open the `index.html` file in your preferred web browser.
